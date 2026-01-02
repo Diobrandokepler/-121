@@ -1,0 +1,7 @@
+{
+  "name": "ScholarFlow - AI 论文助手",
+  "description": "智能学术论文管理工具，利用 Gemini AI 自动分类、摘要和整理您的研究文献库。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
